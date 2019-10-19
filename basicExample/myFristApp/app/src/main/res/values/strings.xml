@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myFristApp</string>
+    <string name="button">按我</string>
+    <string name="todo">TODO</string>
+    <string name="Activity">Activity</string>
+</resources>
